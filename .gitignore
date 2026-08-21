@@ -6,3 +6,6 @@ Desktop.ini
 .idea/
 .vscode/
 node_modules/
+
+# Локальные черновики (не для портфолио на GitHub)
+docs/
