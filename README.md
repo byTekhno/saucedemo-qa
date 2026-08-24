@@ -41,13 +41,12 @@
 - Пройден смоук: 14/14 Pass ([checklists/smoke.md](checklists/smoke.md))
 - Выполнен прогон: Pass 35 / Fail 2 / Blocked 1 ([test-runs/2026-08-20.md](test-runs/2026-08-20.md))
 - Подтверждены демо-дефекты BUG-001…003 (`problem_user` / `visual_user`)
-- Оформлены свои дефекты: [BUG-004](bugs/BUG-004-empty-cart-checkout.md), [BUG-005](bugs/BUG-005-reset-app-state-buttons.md)
+- Оформлены свои дефекты: [BUG-004](bugs/BUG-004-empty-cart-checkout.md), [BUG-005](bugs/BUG-005-reset-app-state-buttons.md), [BUG-006](bugs/BUG-006-error-user-remove-not-clickable.md), [BUG-007](bugs/BUG-007-error-user-add-disabled.md), [BUG-008](bugs/BUG-008-error-user-checkout-lastname-finish.md)
 - Собраны кейсы: логин, каталог, корзина, чекаут, меню
 
 ## Что будет дальше
 
-1. Найти и оформить ещё 1+ свой баг (цель портфолио — 3+)
-2. Смоук-автоматизация (Playwright)
+1. Смоук-автоматизация (Playwright)
 
 ---
 
