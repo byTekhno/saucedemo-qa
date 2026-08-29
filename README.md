@@ -1,4 +1,4 @@
-# QA-портфолио: Sauce Demo (Swag Labs)
+# Manual QA portfolio — smoke checklist, cases, test run, bug reports (Sauce Demo / Swag Labs)
 
 Учебный проект ручного тестирования сайта [saucedemo.com](https://www.saucedemo.com) — демо-магазина от Sauce Labs.
 
